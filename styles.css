@@ -137,6 +137,10 @@ main {
     gap: 18px;
 }
 
+.portfolio-section {
+    margin-top: 40px;
+}
+
 .card {
     min-height: 220px;
     padding: 26px;
